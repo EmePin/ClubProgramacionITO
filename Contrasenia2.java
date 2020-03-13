@@ -17,7 +17,7 @@ public class Contrasenia2
            break;
         }
             
-            else if ( contrar != desbloqueo && i<=0) 
+            else if ( contrar != desbloqueo && i>=0) 
             System.out.println ("acceso inválido");
             
         
